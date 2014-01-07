@@ -29,7 +29,7 @@
 #include <linux/vmalloc.h>
 
 #include "zsmalloc.h"
-#include "zsmalloc_int.h"
+
 
 /*
  * A zspage's class index and fullness group
