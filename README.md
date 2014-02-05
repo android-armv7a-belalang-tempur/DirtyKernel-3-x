@@ -1,4 +1,4 @@
-Dirty Dev Team -DirtyKernel 3.0.105 ( cyanogenmod 10.2 & cyanogenmod 11)
+Dirty Dev Team -DirtyKernel 3.1.0 ( cyanogenmod 10.2 & cyanogenmod 11)
 
 
 
